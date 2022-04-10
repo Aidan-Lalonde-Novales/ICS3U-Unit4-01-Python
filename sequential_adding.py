@@ -14,7 +14,7 @@ def main():
     # input
     times_to_loop_string = input("Please enter a positive integer: ")
 
-    # process
+    # process & output
     try:
         times_to_loop = int(times_to_loop_string)
 
