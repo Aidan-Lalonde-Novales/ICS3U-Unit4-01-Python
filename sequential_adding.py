@@ -28,7 +28,7 @@ def main():
         )
 
     except Exception:
-        print("That is an invalid year. Please try again.")
+        print("Your integer is invalid! Please try again.")
 
     print("\nDone.")
 
