@@ -7,7 +7,7 @@
 
 
 def main():
-    # this function determines if a given year is a leap year
+    # this function determines sequential sum
     counter = 0
     sum_count = 0
 
